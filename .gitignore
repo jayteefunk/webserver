@@ -6,9 +6,9 @@
 # Folders
 _obj
 _test
-js
-css
-img
+_js
+_css
+_img
 
 # Architecture specific extensions/prefixes
 *.[568vq]
@@ -48,6 +48,7 @@ builds/**/images/*
 *.mp4
 *.png
 *.jpeg
+*.css
 
 # security / ssl
 *.pem
