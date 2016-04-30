@@ -1,9 +1,24 @@
 body {
-    background-color: #2d2d86;
-    color: #cccccc;
+    background-color: #b2b266;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-    font-family: "Tahoma, Geneva, sans-serif"
+    font-family: "Tahoma, Geneva, sans-serif";
+}
+.first {
+  color: rgb(255,255,255);
+}
+.second {
+  color: #29a329;
+}
+.third {
+  color: #e60000;
+}
+h1 {
+  color: #000099;
+  text-align: center;
+}
+h2 {
+  color: #000099;
 }

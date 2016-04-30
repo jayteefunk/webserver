@@ -11,6 +11,8 @@ import (
 func main() {
 	http.HandleFunc("/", myhandler)
 
+	log.Printf("About to listen on 8080. Go to https://127.0.0.1:8080/")
+
 	http.ListenAndServe(":8080", nil)
 }
 func myhandler(w http.ResponseWriter, r *http.Request) {
