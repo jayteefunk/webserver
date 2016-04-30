@@ -6,6 +6,9 @@
 # Folders
 _obj
 _test
+_js
+_css
+_img
 
 # Architecture specific extensions/prefixes
 *.[568vq]
